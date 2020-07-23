@@ -1,0 +1,22 @@
+body{
+    background-color: rgba(68, 0, 255, 0.986);
+}
+
+table, td{
+    border: solid black;
+    margin-top: 20%;
+    margin-left: 40%;
+    border-collapse: collapse;
+    padding: 3px;
+}
+
+input {
+background-color: wheat;
+color: black;
+width: 100%;
+cursor: pointer;
+}
+#display{
+    cursor: text;
+    width: 97.8%;
+}
